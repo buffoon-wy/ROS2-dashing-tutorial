@@ -1,0 +1,4 @@
+#ignore target folder
+log/
+build/
+install/
