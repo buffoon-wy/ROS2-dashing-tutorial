@@ -1,6 +1,0 @@
-msg/PacketMsg.idl
-msg/PacketMsg.msg
-srv/OSConfigSrv.idl
-srv/OSConfigSrv.srv
-srv/OSConfigSrv_Request.msg
-srv/OSConfigSrv_Response.msg
