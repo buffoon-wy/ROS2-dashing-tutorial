@@ -1,0 +1,25 @@
+{
+  "package_name": "tutorial_interfaces",
+  "output_dir": "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_typesupport_opensplice_cpp/tutorial_interfaces",
+  "template_dir": "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource",
+  "idl_tuples": [
+    "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_adapter/tutorial_interfaces:msg/Num.idl",
+    "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_adapter/tutorial_interfaces:srv/AddThreeInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/dashing/lib/rosidl_typesupport_opensplice_cpp/rosidl_typesupport_opensplice_cpp",
+    "/opt/ros/dashing/lib/python3.6/site-packages/rosidl_typesupport_opensplice_cpp/__init__.py",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/idl__rosidl_typesupport_opensplice_cpp.hpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/idl__dds_opensplice__type_support.cpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/msg__rosidl_typesupport_opensplice_cpp.hpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/srv__rosidl_typesupport_opensplice_cpp.hpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/srv__type_support.cpp.em",
+    "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_adapter/tutorial_interfaces/msg/Num.idl",
+    "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_adapter/tutorial_interfaces/srv/AddThreeInts.idl"
+  ],
+  "additional_files": [
+    "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_generator_dds_idl/tutorial_interfaces/msg/dds_opensplice/Num_.idl",
+    "/home/buffoon/dev_ws/build/tutorial_interfaces/rosidl_generator_dds_idl/tutorial_interfaces/srv/dds_opensplice/AddThreeInts_.idl"
+  ]
+}

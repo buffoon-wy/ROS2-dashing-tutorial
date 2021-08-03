@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/buffoon/dev_ws/install/turtlesim/include/**",
+                "/home/buffoon/ws/install/mymsgs/include/**",
+                "/opt/ros/dashing/include/**",
+                "/home/buffoon/dev_ws/src/cpp_pubsub/include/**",
+                "/home/buffoon/dev_ws/src/ros_tutorials/turtlesim/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/install/tutorial_interfaces/include"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

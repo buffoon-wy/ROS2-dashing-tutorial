@@ -1,0 +1,19 @@
+{
+  "package_name": "more_interfaces",
+  "output_dir": "/home/buffoon/dev_ws/build/more_interfaces/rosidl_typesupport_introspection_c/more_interfaces",
+  "template_dir": "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/buffoon/dev_ws/build/more_interfaces/rosidl_adapter/more_interfaces:msg/AddressBook.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/dashing/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/ros/dashing/lib/python3.6/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/buffoon/dev_ws/build/more_interfaces/rosidl_adapter/more_interfaces/msg/AddressBook.idl"
+  ]
+}

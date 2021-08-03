@@ -1,0 +1,7 @@
+{
+  "package_name": "mymsgs",
+  "non_idl_tuples": [
+    "/home/buffoon/dev_ws/src/mymsgs:msg/PacketMsg.msg",
+    "/home/buffoon/dev_ws/src/mymsgs:srv/OSConfigSrv.srv"
+  ]
+}

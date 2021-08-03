@@ -1,0 +1,25 @@
+{
+  "package_name": "mymsgs",
+  "output_dir": "/home/buffoon/dev_ws/build/mymsgs/rosidl_typesupport_opensplice_cpp/mymsgs",
+  "template_dir": "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource",
+  "idl_tuples": [
+    "/home/buffoon/dev_ws/build/mymsgs/rosidl_adapter/mymsgs:msg/PacketMsg.idl",
+    "/home/buffoon/dev_ws/build/mymsgs/rosidl_adapter/mymsgs:srv/OSConfigSrv.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/dashing/lib/rosidl_typesupport_opensplice_cpp/rosidl_typesupport_opensplice_cpp",
+    "/opt/ros/dashing/lib/python3.6/site-packages/rosidl_typesupport_opensplice_cpp/__init__.py",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/idl__rosidl_typesupport_opensplice_cpp.hpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/idl__dds_opensplice__type_support.cpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/msg__rosidl_typesupport_opensplice_cpp.hpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/srv__rosidl_typesupport_opensplice_cpp.hpp.em",
+    "/opt/ros/dashing/share/rosidl_typesupport_opensplice_cpp/resource/srv__type_support.cpp.em",
+    "/home/buffoon/dev_ws/build/mymsgs/rosidl_adapter/mymsgs/msg/PacketMsg.idl",
+    "/home/buffoon/dev_ws/build/mymsgs/rosidl_adapter/mymsgs/srv/OSConfigSrv.idl"
+  ],
+  "additional_files": [
+    "/home/buffoon/dev_ws/build/mymsgs/rosidl_generator_dds_idl/mymsgs/msg/dds_opensplice/PacketMsg_.idl",
+    "/home/buffoon/dev_ws/build/mymsgs/rosidl_generator_dds_idl/mymsgs/srv/dds_opensplice/OSConfigSrv_.idl"
+  ]
+}
